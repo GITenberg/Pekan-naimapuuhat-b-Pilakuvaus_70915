@@ -1,11 +1,16 @@
 _repo: Pekan-naimapuuhat-b-Pilakuvaus_70915
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Aira, Cesar
     gutenberg_agent_id: '55995'
     url: http://www.gutenberg.org/2009/agents/55995
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70915#Pekan-naimapuuhat-b-Pilakuvaus
 gutenberg_issued: '2023-06-05'
 identifiers:
   gutenberg: '70915'
